@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/sectores" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
